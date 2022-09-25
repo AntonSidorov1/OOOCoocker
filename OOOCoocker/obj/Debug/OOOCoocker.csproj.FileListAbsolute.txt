@@ -1,0 +1,11 @@
+D:\Visual Studio\repos\OOOCoocker\OOOCoocker\bin\Debug\OOOCoocker.exe.config
+D:\Visual Studio\repos\OOOCoocker\OOOCoocker\bin\Debug\OOOCoocker.exe
+D:\Visual Studio\repos\OOOCoocker\OOOCoocker\bin\Debug\OOOCoocker.pdb
+D:\Visual Studio\repos\OOOCoocker\OOOCoocker\obj\Debug\OOOCoocker.csproj.AssemblyReference.cache
+D:\Visual Studio\repos\OOOCoocker\OOOCoocker\obj\Debug\OOOCoocker.Pattern.resources
+D:\Visual Studio\repos\OOOCoocker\OOOCoocker\obj\Debug\OOOCoocker.Properties.Resources.resources
+D:\Visual Studio\repos\OOOCoocker\OOOCoocker\obj\Debug\OOOCoocker.csproj.GenerateResource.cache
+D:\Visual Studio\repos\OOOCoocker\OOOCoocker\obj\Debug\OOOCoocker.csproj.CoreCompileInputs.cache
+D:\Visual Studio\repos\OOOCoocker\OOOCoocker\obj\Debug\OOOCoocker.exe
+D:\Visual Studio\repos\OOOCoocker\OOOCoocker\obj\Debug\OOOCoocker.pdb
+D:\Visual Studio\repos\OOOCoocker\OOOCoocker\obj\Debug\OOOCoocker.Autorization.resources
